@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+  display: flex;
+  justify-content: space-between; 
+  align-items: center;
+  padding: 10px 20px;
+  color: white;
+  order: 2;
+  margin-left: 900px !important;
+  
+}
+.container-2{
+  display: flex;
+  justify-content: space-between; 
+  align-items: center;
+  padding: 10px 20px;
+  color: white;
+  order: 2;
+  margin-left: 900px !important;
+  
+}
+.card{
+    max-width: 20rem;
+}
+
+.VinoPag{
+
+    width: 400px;
+    height: 400px;
+   }
